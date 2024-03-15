@@ -1,8 +1,8 @@
-# Pixelcade Pinball Table DMD Image Set
+# Pinball Table DMD Image Set
 
 ## Overview
 
-This repository contains a set of Dynamic Marquee Display (DMD) images or Marquees for various pinball tables, specifically designed for display on the [Pixelcade](https://pixelcade.org/)
+This repository contains a set of Dynamic Marquee Display (DMD) images or Marquees for various pinball tables, specifically designed for display on the [Pixelcade](https://pixelcade.org/) or ZeDMD 
 device while navigating through tables in EmulationStation.
 
 ## Description
